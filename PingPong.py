@@ -1,4 +1,4 @@
-#CodeRunner.in
+
 import turtle
 
 window=turtle.Screen()
